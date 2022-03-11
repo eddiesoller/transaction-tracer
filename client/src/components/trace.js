@@ -30,8 +30,6 @@ export default function Trace() {
         return;
       }
 
-      console.log(transaction);
-
       setForm(transaction);
     }
 
